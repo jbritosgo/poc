@@ -18,8 +18,8 @@ Se utilizan las siguientes tecnologías y bibliotecas:
 
 Para compilar y ejecutar el proyecto se requiere tener instalado:
 
-- JAVA JDK 8
-- Versión reciente de Maven (probado con la versión 3.6.3)
+- JAVA JDK 21
+- Versión reciente de Maven (probado con la versión 3.8.7)
 - Versión reciente de Node (probado con la versión 19.6.0)
 - IDE de desarrollo de su preferencia.
 
