@@ -5,7 +5,7 @@ Este repositorio contiene una prueba de concepto (POC) de una aplicación web qu
 Se utilizan las siguientes tecnologías y bibliotecas:
 
 <b>Backend</b> 
-- JAVA 8, Spring Boot, Mybatis, H2 (motor de base de datos, utilizado en este caso en formato "embedded")
+- JAVA 21, Spring Boot, Mybatis, H2 (motor de base de datos, utilizado en este caso en formato "embedded")
 - Gestión de dependencias utilizando Maven.
 
 <b>Frontend</b>
