@@ -63,7 +63,7 @@ Apuntar navegador a http://localhost:8080/paises
 
 5) Se debe respetar el look & feel existente
 
-6) Por favor al terminar, realice un tag en git para marcar la versión. 
+6) Al terminar, realice un tag en git para marcar la versión. 
 
 # Pauta de evaluación
 
