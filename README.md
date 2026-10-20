@@ -1,6 +1,6 @@
 # Descripción del POC
 
-En el presente repositorio se incluye una POC que implementa un listado de paises. Por simplicidad se combina backend y frontend en un mismo módulo. 
+Este repositorio contiene una prueba de concepto (POC) de una aplicación web que implementa un listado de países. Por simplicidad, el backend y el frontend se encuentran integrados en un mismo módulo.
 
 Se utilizan las siguientes tecnologías y bibliotecas:
 
