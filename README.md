@@ -45,6 +45,8 @@ Apuntar navegador a http://localhost:8080/paises
 
 # Enunciado prueba
 
+0) Previo a comenzar, utilizando git, debe crear una rama de trabajo con un nombre representativo y trabajar sobre ella. Puede realizar commits periódicos según lo que estime conveniente.  
+
 1) Se debe descargar la POC e implementar sobre ella <b>nuevos endpoints en la API REST existente</b> que permita listar, registrar, editar y eliminar un nuevo recurso: <b>persona</b>. El recurso persona debe constar de los siguientes atributos:
 
 - Nombres
@@ -61,7 +63,7 @@ Apuntar navegador a http://localhost:8080/paises
 
 5) Se debe respetar el look & feel existente
 
-6) Por favor compartir el resultado (código fuente) en el repositorio personal del postulante.
+6) Por favor al terminar, realice un tag en git para marcar la versión. 
 
 # Pauta de evaluación
 
